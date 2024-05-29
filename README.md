@@ -1,2 +1,2 @@
 # qts-i-julia-souza
-Repositório para as aulas de Qualidade e Teste de Software com o professor João Siles
+Repositório para as aulas de Qualidade e Teste de Software com o professor João Siles!!
